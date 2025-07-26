@@ -1,0 +1,7 @@
+torch
+ffmpeg-python
+demucs
+numpy
+scipy
+soundfile
+librosa
